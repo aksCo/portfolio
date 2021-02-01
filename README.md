@@ -19,9 +19,10 @@ Run the index file ensuring that it opens in Google Chrome.
 
 ## Credits/Collaboration
 
-The code was built upon the starter code provided by Bryan Wu from Triology Education Services
-W3 Schools
+The code was built upon the starter code provided by Bryan Wu from Triology Education Services and W3 Schools
 
 ## Copyright
 
-© 2020 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
+© 2020 Copyright Akshaya Sreenivasan. All Rights Reserved.
+
+
