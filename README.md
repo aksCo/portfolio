@@ -12,7 +12,6 @@ https://aksco.github.io/portfolio/
 ## Usage
 
 Run the index file ensuring that it opens in Google Chrome.
-
 ![Portfolio Page](assets/images/PortfolioS.png)
 
 ## Credits/Collaboration
