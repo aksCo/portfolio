@@ -1,4 +1,4 @@
-# A Responsive Portfolio
+# Portfolio
 
 ## Description 
 What? A project that launches a personal responsive portfolio. 
@@ -7,7 +7,7 @@ How? By ensuring that the website design is responsive and has sufficient inform
 
 ## Link to Deployed Application
 
-https://aksco.github.io/responsiveportfolio/
+https://aksco.github.io/portfolio/
 
 ## Usage
 
@@ -20,6 +20,7 @@ Run the index file ensuring that it opens in Google Chrome.
 ## Credits/Collaboration
 
 The code was built upon the starter code provided by Bryan Wu from Triology Education Services
+W3 Schools
 
 ## Copyright
 
