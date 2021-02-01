@@ -13,8 +13,6 @@ https://aksco.github.io/portfolio/
 
 Run the index file ensuring that it opens in Google Chrome.
 
-![About Me Page](assets/images/AboutMe.png)
-![Contact Page](assets/images/ContactMe.png)
 ![Portfolio Page](assets/images/PortfolioS.png)
 
 ## Credits/Collaboration
